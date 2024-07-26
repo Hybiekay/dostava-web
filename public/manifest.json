@@ -1,0 +1,22 @@
+{
+    "short_name": "Glover",
+    "name": "Glover: Your one stop for everything",
+    "icons": [
+      {
+        "src": "img/icons/favicon-16x16.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "img/icons/favicon-16x16.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fff"
+    
+  }
